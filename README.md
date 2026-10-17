@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://abozaralizadeh.github.io"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A8F25E&center=true&vCenter=true&width=620&height=42&lines=Hi%2C+I'm+Abozar;GenAI+in+production;Turning+ideas+into+shipped+products;Serial+shipper+of+side+projects;Scroll+my+story+%E2%86%92+abozaralizadeh.github.io" alt="Hi, I'm Abozar. GenAI in production. Turning ideas into shipped products. Serial shipper of side projects." /></a>
+<a href="https://abozaralizadeh.github.io"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=900&color=A8F25E&center=true&vCenter=true&width=620&height=42&lines=Hi%2C+I'm+Abozar;GenAI+in+production;Building+my+own+products+by+night;Turning+ideas+into+shipped+products;Serial+shipper+of+side+projects;while+%28true%29+%7B+build%28%29%CD%BE+ship%28%29%CD%BE+%7D;Scroll+my+story+%E2%86%92+abozaralizadeh.github.io" alt="Hi, I'm Abozar. GenAI in production. Building my own products by night. Turning ideas into shipped products. Serial shipper of side projects." /></a>
 
 **Senior Software Engineer & Solution Architect** · Milan 🇮🇹
 
